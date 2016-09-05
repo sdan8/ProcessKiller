@@ -1,0 +1,9 @@
+F:\files\C＃\ProcessKiller\ProcessKiller\bin\Debug\ProcessKiller.exe
+F:\files\C＃\ProcessKiller\ProcessKiller\bin\Debug\ProcessKiller.pdb
+F:\files\C＃\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.csprojResolveAssemblyReference.cache
+F:\files\C＃\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.Form1.resources
+F:\files\C＃\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.Properties.Resources.resources
+F:\files\C＃\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.csproj.GenerateResource.Cache
+F:\files\C＃\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.exe
+F:\files\C＃\ProcessKiller\ProcessKiller\obj\Debug\ProcessKiller.pdb
+F:\files\C＃\ProcessKiller\ProcessKiller\bin\Debug\ProcessKiller.exe.config
